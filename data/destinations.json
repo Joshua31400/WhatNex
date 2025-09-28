@@ -1,0 +1,57 @@
+[
+  {
+    "pays": "France",
+    "ville": "Paris",
+    "description": "La ville lumière avec sa tour Eiffel emblématique et ses cafés charmants.",
+    "prix": {
+      "hotel": "150-300€/nuit",
+      "repas": "15-30€/repas",
+      "transport": "1.90€/ticket de métro"
+    },
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1000"
+  },
+  {
+    "pays": "Japon",
+    "ville": "Tokyo",
+    "description": "Une métropole vibrante mêlant tradition et technologie avancée.",
+    "prix": {
+      "hotel": "100-250€/nuit",
+      "repas": "8-25€/repas",
+      "transport": "1.50€/ticket de métro"
+    },
+    "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?q=80&w=1000"
+  },
+  {
+    "pays": "Italie",
+    "ville": "Rome",
+    "description": "La ville éternelle regorge d'histoire antique et de délicieuse cuisine.",
+    "prix": {
+      "hotel": "80-200€/nuit",
+      "repas": "10-25€/repas",
+      "transport": "1.50€/ticket de bus"
+    },
+    "image": "https://images.unsplash.com/photo-1525874684015-58379d421a52?q=80&w=1000"
+  },
+  {
+    "pays": "Thaïlande",
+    "ville": "Bangkok",
+    "description": "Une ville animée avec des temples majestueux et une cuisine de rue incontournable.",
+    "prix": {
+      "hotel": "30-120€/nuit",
+      "repas": "3-10€/repas",
+      "transport": "0.50€/ticket de bus"
+    },
+    "image": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?q=80&w=1000"
+  },
+  {
+    "pays": "États-Unis",
+    "ville": "New York",
+    "description": "La ville qui ne dort jamais, connue pour ses gratte-ciels et sa diversité culturelle.",
+    "prix": {
+      "hotel": "200-500€/nuit",
+      "repas": "15-40€/repas",
+      "transport": "2.75$/ticket de métro"
+    },
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000"
+  }
+]
