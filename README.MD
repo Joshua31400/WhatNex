@@ -9,8 +9,7 @@
 2. [🛠️ Technologies](#-Technologies)
 3. [✨ Fonctionnalités](#-Fonctionnalités)
 4. [🚀 Comment lancer ?](#-Comment-lancer)
-5. [📝 Licence](#-Licence)
-6. [👥 Credits](#-Credits)
+5. [👥 Credits](#-Credits)
 
 ***
 ## 📄 A Propos
